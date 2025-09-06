@@ -1,82 +1,66 @@
-<!-- Header Animation -->
-<img src="https://raw.githubusercontent.com/kvssankar/kvssankar/master/assets/header.gif" width="100%" height="200px"/>
-
-<h1 align="center">Hi 👋, I'm Arun Reddy</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | MERN Stack | Backend | Competitive Programming</h3>
-
----
-
-## 👨‍💻 About Me  
-- 🎓 Final Year CSE Student at **Guru Nanak Institute of Technology**  
-- 💻 Passionate about **Backend Engineering, MERN Stack, and DSA**  
-- 🚀 Exploring **Cloud Computing & System Design**  
-- 📈 Active on multiple coding platforms  
-
----
-
-## 🌐 Connect With Me  
-
+<!-- Banner / Header GIF -->
 <p align="center">
-  <a href="mailto:arunreddyverelly2003@gmail.com"><img src="https://img.icons8.com/clouds/100/000000/gmail.png" width="60"/></a>
-  <a href="https://www.linkedin.com/in/arunreddy2003/"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png" width="60"/></a>
-  <a href="https://github.com/ArunReddy99-ux"><img src="https://img.icons8.com/clouds/100/000000/github.png" width="60"/></a>
+  <img src="https://raw.githubusercontent.com/kvssankar/kvssankar/master/assets/header.gif" alt="header" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Veerelly Arun Reddy</h1>
+<h3 align="center">Fullstack Developer | Competitive Programmer | Tech Explorer 🚀</h3>
+
+---
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Graduate+in+Computer+Science;Fullstack+Developer+%F0%9F%92%BB;MERN+Stack+%7C+DSA+%7C+Backend;Competitive+Programmer+on+LC+%7C+CF+%7C+CC" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🏆 Competitive Programming Profiles  
+### ✨ About Me  
+- 🎓 Graduate in **Computer Science Engineering**  
+- 💻 Skilled in **Fullstack Development** (MERN, Node.js, MongoDB, React.js)  
+- ⚡ Strong in **DSA & Competitive Programming**  
+- 🌱 Constantly learning and exploring new tech  
+- 📫 Reach me at: **arunreddyverelly2003@gmail.com**
 
+---
+
+### 🌐 Connect With Me  
 <p align="center">
-  <a href="https://leetcode.com/u/arunreddyverelly2003/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="60"/></a>
-  <a href="https://www.codechef.com/users/arunreddy241"><img src="https://img.icons8.com/ios-filled/100/5B4638/c.png" width="60"/></a>
-  <a href="https://codeforces.com/profile/_enjoy"><img src="https://sta.codeforces.com/s/80084/images/codeforces-logo-with-telegram.png" width="100"/></a>
-  <a href="https://www.geeksforgeeks.org/user/arunreddyverelly2003/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="70"/></a>
+  <a href="mailto:arunreddyverelly2003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="https://linkedin.com/in/arunreddy2003"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://github.com/ArunReddy99-ux"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
+  <a href="https://leetcode.com/u/arunreddyverelly2003/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="28" /></a>
+  <a href="https://www.codechef.com/users/arunreddy241"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="28" /></a>
+  <a href="https://codeforces.com/profile/_enjoy"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="28" /></a>
+  <a href="https://www.geeksforgeeks.org/user/arunreddyverelly2003/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="28" /></a>
 </p>
 
 ---
 
-## 🛠️ Skills  
-
-### 🚀 Languages & Frameworks  
+### 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python,react,nodejs,express,mongodb,mysql,graphql" />
-</p>
-
-### ⚙️ Tools & Platforms  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman,redis,aws" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css,react,nodejs,express,mongodb,mysql,git,github,docker" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics  
+### 📊 GitHub Insights  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArunReddy99-ux&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArunReddy99-ux&theme=radical" height="180" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArunReddy99-ux&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArunReddy99-ux&theme=radical" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArunReddy99-ux&theme=react-dark" height="250"/>
 </p>
 
 ---
 
-## 🔥 Contribution Graph  
-[![Arun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArunReddy99-ux&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 📺 Fun Animation  
-
+### ⚡ Fun Animation  
 <p align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="400" height="250">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="500" />
 </p>
 
 ---
 
-## 🌱 Currently Learning  
-- Advanced **Backend Engineering** (Scalable APIs, Redis, Microservices)  
-- **GraphQL & Apollo**  
-- **Cloud & DevOps (AWS, Docker, CI/CD)**  
-
----
-
-⭐️ From [Arun Reddy](https://github.com/ArunReddy99-ux)  
-
+🔥 *Always building, always learning!* 🚀
